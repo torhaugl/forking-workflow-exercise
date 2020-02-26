@@ -1,3 +1,5 @@
+[![DOI](https://sandbox.zenodo.org/badge/243255442.svg)](https://sandbox.zenodo.org/badge/latestdoi/243255442)
+
 
 ## just checking the issues. all good. great excersie for forking! 
 ## Exercise: practice collaborative forking workflow
